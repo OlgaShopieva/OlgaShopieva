@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olga Shopieva 👋 
 
-<!--
-**OlgaShopieva/OlgaShopieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Engineer with experience building high-load microservices
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+### Languages
+
+![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+
+### Tools & Platforms
+![Spring](https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes)
+
+---
+
+## 🚀 Featured Project
+
+### 🤖 AI Code Reviewer
+[AI Code Reviewer](https://github.com/OlgaShopieva/ai-code-reviewer) — AI service that reviews GitHub Pull Requests using LLMs
+
+## 📫 Connect
+- 📧 Email: olgashopieva@gmail.com
