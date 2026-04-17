@@ -1,5 +1,4 @@
 # Olga Shopieva 👋 
-
 🚀 Backend Engineer with experience building high-load microservices
 
 ---
@@ -22,6 +21,3 @@
 
 ### 🤖 AI Code Reviewer
 [AI Code Reviewer](https://github.com/OlgaShopieva/ai-code-reviewer) — AI service that reviews GitHub Pull Requests using LLMs
-
-## 📫 Connect
-- 📧 Email: olgashopieva@gmail.com
