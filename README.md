@@ -19,5 +19,6 @@
 
 ## 🚀 Featured Project
 
-### 🤖 AI Code Reviewer
+### 🤖 AI Services
 [AI Code Reviewer](https://github.com/OlgaShopieva/ai-code-reviewer) — AI service that reviews GitHub Pull Requests using LLMs
+[AI Expense Tracker](https://github.com/OlgaShopieva/ai-expense-tracker) - AI service for analyzing personal expenses
