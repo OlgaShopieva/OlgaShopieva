@@ -12,7 +12,7 @@
 ### Tools & Platforms
 ![Spring](https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-black?logo=openai)
+![OpenAI](https://img.shields.io/badge/OpenAI-API)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes)
 
